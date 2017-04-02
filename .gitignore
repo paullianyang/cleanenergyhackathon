@@ -1,3 +1,4 @@
 *.ipynb_checkpoints
 VillageMetrics_raw/
 VillageMetrics_output/
+*DS_store
